@@ -3,7 +3,7 @@ Sample code from the Arctic Data Center training
 
 This repoistory is used as:
 
-* Matt changed this line
+* Matt changed this line again.
 * An introduction to git
 * Jeanette changed this line
 * Using git with RStudio
